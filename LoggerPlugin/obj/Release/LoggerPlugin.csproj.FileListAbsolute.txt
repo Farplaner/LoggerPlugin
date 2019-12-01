@@ -1,0 +1,8 @@
+D:\Development\LoggerPlugin\LoggerPlugin\bin\Release\LoggerPlugin.dll
+D:\Development\LoggerPlugin\LoggerPlugin\bin\Release\LoggerPlugin.pdb
+D:\Development\LoggerPlugin\LoggerPlugin\bin\Release\Advanced Combat Tracker.exe
+D:\Development\LoggerPlugin\LoggerPlugin\bin\Release\GammaJul.LgLcd.dll
+D:\Development\LoggerPlugin\LoggerPlugin\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\Development\LoggerPlugin\LoggerPlugin\obj\Release\LoggerPlugin.csprojResolveAssemblyReference.cache
+D:\Development\LoggerPlugin\LoggerPlugin\obj\Release\LoggerPlugin.dll
+D:\Development\LoggerPlugin\LoggerPlugin\obj\Release\LoggerPlugin.pdb
